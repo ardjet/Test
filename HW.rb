@@ -1,1 +1,1 @@
-p "hellow".length
+puts "hello"
