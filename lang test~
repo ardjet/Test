@@ -1,0 +1,7 @@
+# 文字列オブジェクト
+
+x = "hello"
+y = 'hello'
+
+puts 'hello\nworld'
+
